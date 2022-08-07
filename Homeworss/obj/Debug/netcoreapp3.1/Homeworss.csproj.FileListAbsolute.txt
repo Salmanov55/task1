@@ -1,0 +1,14 @@
+C:\Users\Aydan\Desktop\Homeworss\Homeworss\bin\Debug\netcoreapp3.1\Homeworss.exe
+C:\Users\Aydan\Desktop\Homeworss\Homeworss\bin\Debug\netcoreapp3.1\Homeworss.deps.json
+C:\Users\Aydan\Desktop\Homeworss\Homeworss\bin\Debug\netcoreapp3.1\Homeworss.runtimeconfig.json
+C:\Users\Aydan\Desktop\Homeworss\Homeworss\bin\Debug\netcoreapp3.1\Homeworss.runtimeconfig.dev.json
+C:\Users\Aydan\Desktop\Homeworss\Homeworss\bin\Debug\netcoreapp3.1\Homeworss.dll
+C:\Users\Aydan\Desktop\Homeworss\Homeworss\bin\Debug\netcoreapp3.1\Homeworss.pdb
+C:\Users\Aydan\Desktop\Homeworss\Homeworss\obj\Debug\netcoreapp3.1\Homeworss.csproj.AssemblyReference.cache
+C:\Users\Aydan\Desktop\Homeworss\Homeworss\obj\Debug\netcoreapp3.1\Homeworss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aydan\Desktop\Homeworss\Homeworss\obj\Debug\netcoreapp3.1\Homeworss.AssemblyInfoInputs.cache
+C:\Users\Aydan\Desktop\Homeworss\Homeworss\obj\Debug\netcoreapp3.1\Homeworss.AssemblyInfo.cs
+C:\Users\Aydan\Desktop\Homeworss\Homeworss\obj\Debug\netcoreapp3.1\Homeworss.csproj.CoreCompileInputs.cache
+C:\Users\Aydan\Desktop\Homeworss\Homeworss\obj\Debug\netcoreapp3.1\Homeworss.dll
+C:\Users\Aydan\Desktop\Homeworss\Homeworss\obj\Debug\netcoreapp3.1\Homeworss.pdb
+C:\Users\Aydan\Desktop\Homeworss\Homeworss\obj\Debug\netcoreapp3.1\Homeworss.genruntimeconfig.cache
